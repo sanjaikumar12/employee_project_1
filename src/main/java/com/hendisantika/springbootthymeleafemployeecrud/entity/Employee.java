@@ -5,15 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * Created by IntelliJ IDEA.
- * Project : springboot-thymeleaf-employee-crud
- * User: hendisantika
- * Email: hendisantika@gmail.com
- * Telegram : @hendisantika34
- * Date: 19/10/20
- * Time: 21.56
- */
+
 @Entity
 @Table(name = "employees")
 @Data
