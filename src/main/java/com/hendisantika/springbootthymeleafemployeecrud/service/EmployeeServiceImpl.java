@@ -12,15 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Created by IntelliJ IDEA.
- * Project : springboot-thymeleaf-employee-crud
- * User: hendisantika
- * Email: hendisantika@gmail.com
- * Telegram : @hendisantika34
- * Date: 19/10/20
- * Time: 21.58
- */
+
 @Service
 public class EmployeeServiceImpl implements EmployeeService {
 
